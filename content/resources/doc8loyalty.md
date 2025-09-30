@@ -4,6 +4,8 @@ description: 'Lecture 7: Duties of loyalty and fair dealing'
 file: /courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/6159beea7af090cc2c26fce5d89ce2ac_doc8loyalty.pdf
 file_size: 141506
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

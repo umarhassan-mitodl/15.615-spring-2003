@@ -4,6 +4,8 @@ description: ''
 file: /courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/4b44e25b2bfe36d21045da6c78535779_doc130313notes.pdf
 file_size: 57539
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

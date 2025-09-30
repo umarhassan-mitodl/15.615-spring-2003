@@ -4,6 +4,8 @@ description: 'Lecture 17: Operating as a Public Company'
 file: /courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/99c1eb96789ddb00f51d881630070e43_doc180411notes.pdf
 file_size: 53145
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
