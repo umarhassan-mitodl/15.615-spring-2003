@@ -4,8 +4,6 @@ description: Tort law in a peanut
 file: /courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/19f398c8cd46993c256b71d84a65a7d6_tortlawinapeanut.pdf
 file_size: 94084
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

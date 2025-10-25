@@ -4,8 +4,6 @@ description: 'Lecture 19: Corporate gov.'
 file: /courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/322671c0a32a37cdca8b36a91f2015b2_doc200424notes.pdf
 file_size: 643219
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

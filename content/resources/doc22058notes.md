@@ -4,8 +4,6 @@ description: 'Lecture 21: Selling a company'
 file: /courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/1b0b7c6eed84c156dddb891cda260e53_doc22058notes.pdf
 file_size: 174970
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
